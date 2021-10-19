@@ -4,7 +4,7 @@
 #cpuminer-ghostrider-take2 VS  WyvernTKC cpuminer-gr-avx2
 
 
-#PC 1  cpuminer-ghostrider-take2 RUUpWod7uKPHcDnLbeiScyYZnNpQyrd6Ym
+##PC 1  cpuminer-ghostrider-take2 RUUpWod7uKPHcDnLbeiScyYZnNpQyrd6Ym
 
 **********  cpuminer-opt-gr 3.9.6.1  ***********
 
@@ -30,7 +30,7 @@ https://explorer.raptoreum.com/address/RUGaHPECdBFn1r4nAYsXMj35LieJkCa6yS
 
 
 
-#PC 2 WyvernTKC cpuminer-gr-avx2 RUGaHPECdBFn1r4nAYsXMj35LieJkCa6yS
+##PC 2 WyvernTKC cpuminer-gr-avx2 RUGaHPECdBFn1r4nAYsXMj35LieJkCa6yS
 
     **********  cpuminer-opt-gr 1.2.2  *********** 
  A CPU miner with multi algo support and optimized for CPUs
