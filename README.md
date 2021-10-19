@@ -36,7 +36,7 @@ https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.2/cpuminer-g
 
 ##
 
-##### x.x.x.
+##### x.x.x.60
 ## PC 36 cpuminer-opt-rplant
 RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
  
