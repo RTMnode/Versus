@@ -1,7 +1,7 @@
 ## Versus CPU miners
 
 
-# cpuminer-ghostrider-take2 VS  WyvernTKC cpuminer-gr-avx2
+cpuminer-ghostrider-take2 VS  WyvernTKC cpuminer-gr-avx2
 
 
 ## PC 1  cpuminer-ghostrider-take2 RUUpWod7uKPHcDnLbeiScyYZnNpQyrd6Ym
