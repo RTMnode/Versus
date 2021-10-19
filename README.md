@@ -51,6 +51,10 @@ RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
  
 https://explorer.raptoreum.com/address/RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
 
+**********  raptominer 2.0.119  *********** 
+ 
+SW built on Oct  6 2021 with GCC 8.3.0
+
  
  
 Start both
