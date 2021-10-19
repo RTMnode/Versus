@@ -1,0 +1,2 @@
+# Versus
+Versus CPU miners
