@@ -1,4 +1,4 @@
-## Versus CPU miners  Intel Xeon E5-2620 v3
+## Versus CPU miners Intel Xeon E5-2620v3 (15M Cache, 2.40 GHz)
 
 #### cpuminer-ghostrider-take2 VS cpuminer-gr-avx2 VS cpuminer-opt-rplant VS raptominer
 ## 
