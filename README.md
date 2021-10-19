@@ -3,7 +3,7 @@
 #### cpuminer-ghostrider-take2 VS cpuminer-gr-avx2 VS cpuminer-opt-rplant VS raptominer
 ## 
 
-##### x.x.x.
+##### x.x.x.54
 
 ## PC 18  cpuminer-ghostrider-take2 
 RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
