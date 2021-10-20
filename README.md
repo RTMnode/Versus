@@ -10,7 +10,7 @@ RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
 
 https://explorer.raptoreum.com/address/RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
 
-**********  cpuminer-opt-gr 3.9.6.1  ***********
+***  cpuminer-opt-gr 3.9.6.1  ***
 
 SW built on Feb 18 2020 with GCC 7.4.0.
 
@@ -26,7 +26,7 @@ RVEXkbKznTPN9dwsnBehPWooDMWq3dTFwg
 
 https://explorer.raptoreum.com/address/RVEXkbKznTPN9dwsnBehPWooDMWq3dTFwg
 
-**********  cpuminer-opt-gr 1.2.2  *********** 
+***  cpuminer-opt-gr 1.2.2  *** 
     
 SW built on Oct 14 2021 with GCC 10.3.0
     
@@ -42,7 +42,7 @@ RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
 
 https://explorer.raptoreum.com/address/RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
 
-**********  cpuminer-rplant 5.0.24L-avx2 ***********
+***  cpuminer-rplant 5.0.24L-avx2 ***
 
 SW built on Oct  6 2021 with GCC 9.3.0
   
@@ -56,7 +56,7 @@ RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
  
 https://explorer.raptoreum.com/address/RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
 
-**********  raptominer 2.0.119  *********** 
+***  raptominer 2.0.119  *** 
  
 SW built on Oct  6 2021 with GCC 8.3.0
 
