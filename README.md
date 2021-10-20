@@ -60,7 +60,7 @@ https://explorer.raptoreum.com/address/RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
  
 SW built on Oct  6 2021 with GCC 8.3.0
 
- 
+https://bitbucket.org/chiaos/raptominer
  
 Start both
 
