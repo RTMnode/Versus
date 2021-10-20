@@ -45,7 +45,7 @@ https://explorer.raptoreum.com/address/RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
 https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz
 ##
 
-##### x.x.x.
+##### x.x.x.71
 ## PC 48 raptominer
 RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
  
