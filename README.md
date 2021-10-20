@@ -6,7 +6,7 @@
 ##### x.x.x.54
 
 ## PC 18  cpuminer-ghostrider-take2 
-RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
+https://pool.rplant.xyz/api/wallet/raptoreum/RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
 
 https://explorer.raptoreum.com/address/RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
 
@@ -22,7 +22,7 @@ https://github.com/Raptor3um/cpuminer-opt/releases/download/v2.0/cpuminer-gr-ubu
 ##### x.x.x.241
 
 ## PC 26 WyvernTKC cpuminer-gr-avx2 
-RVEXkbKznTPN9dwsnBehPWooDMWq3dTFwg
+https://pool.rplant.xyz/api/wallet/raptoreum/RVEXkbKznTPN9dwsnBehPWooDMWq3dTFwg
 
 https://explorer.raptoreum.com/address/RVEXkbKznTPN9dwsnBehPWooDMWq3dTFwg
 
@@ -38,7 +38,7 @@ https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.2/cpuminer-g
 
 ##### x.x.x.60
 ## PC 36 cpuminer-opt-rplant
-RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
+https://pool.rplant.xyz/api/wallet/raptoreum/RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
 
 https://explorer.raptoreum.com/address/RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
 
@@ -52,7 +52,7 @@ https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer
 
 ##### x.x.x.71
 ## PC 48 raptominer
-RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
+https://pool.rplant.xyz/api/wallet/raptoreum/RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
  
 https://explorer.raptoreum.com/address/RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
 
