@@ -39,10 +39,15 @@ https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.2/cpuminer-g
 ##### x.x.x.60
 ## PC 36 cpuminer-opt-rplant
 RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
- 
+
 https://explorer.raptoreum.com/address/RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
- 
+
+**********  cpuminer-rplant 5.0.24L-avx2 ***********
+
+SW built on Oct  6 2021 with GCC 9.3.0
+  
 https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz
+
 ##
 
 ##### x.x.x.71
