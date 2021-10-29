@@ -46,16 +46,27 @@ https://www.coindab.com/coins/elastos https://developer.elastos.org/blockchains/
 
 https://www.coindab.com/coins/ergo https://ergoplatform.org/en/mining/
 
+https://www.coindab.com/coins/tezos https://tezos.com/developer-portal/
 
+https://cosmos.network/ecosystem/apps
 
+https://www.coindab.com/coins/algorand https://algorand.foundation/algorand-protocol/network
 
+https://www.coindab.com/coins/blockstack https://docs.stacks.co/understand-stacks/mining
 
+https://www.coindab.com/coins/oasis-network https://docs.oasis.dev/general/run-a-node/node-operator-overview
 
+https://www.coindab.com/coins/stellar https://developers.stellar.org/docs/run-core-node/
 
+https://www.coindab.com/coins/aeternity https://aeternity.com/#developer_tools
 
+https://www.coindab.com/coins/holo https://developer.holochain.org/install/
 
+https://www.coindab.com/coins/0chain https://0chain.net/page-miners.html
 
+https://www.coindab.com/coins/ark https://ark.io/
 
+https://www.coindab.com/coins/lbry-credits https://lbry.com/faq/mining-credits
 
-
+https://www.coindab.com/coins/maidsafecoin https://safenetwork.tech/how-it-works/#network-architecture
 
