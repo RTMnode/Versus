@@ -70,3 +70,18 @@ https://www.coindab.com/coins/lbry-credits https://lbry.com/faq/mining-credits
 
 https://www.coindab.com/coins/maidsafecoin https://safenetwork.tech/how-it-works/#network-architecture
 
+https://777coin.win/#specifications
+
+https://celo.org/about
+
+https://www.coindab.com/coins/italo https://italo.network/service-nodes/
+
+https://developers.hive.io/
+
+https://veriblock.org/mine/
+
+https://blocknet.co/built-on-blocknet
+
+https://lyra.live/
+
+https://adamant.im/#trade-adm
