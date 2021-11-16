@@ -1,66 +1,131 @@
-## Versus CPU miners Intel Xeon E5-2620v3 (15M Cache, 2.40 GHz)
+## Versus POW
+## CPU&GPU
 
-###### cpuminer-ghostrider-take2 VS cpuminer-gr-avx2 VS cpuminer-opt-rplant VS raptominer
-## 
+https://www.pascalcoin.org/get_started https://www.pascalcoin.org/content/how_to_mine
 
-##### x.x.x.54
+https://dero.io/#mining-section
 
-## PC 18  cpuminer-ghostrider-take2 
-https://pool.rplant.xyz/api/wallet/raptoreum/RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
+https://quarkchain.io/
 
-https://explorer.raptoreum.com/address/RKdPeXwmFAffZ4MvvW3jYeLf78yxoAjjWv
-
-***  cpuminer-opt-gr 3.9.6.1  ***
-
-SW built on Feb 18 2020 with GCC 7.4.0.
-
-https://github.com/Raptor3um/cpuminer-opt/releases/download/v2.0/cpuminer-gr-ubuntu16-18.tar.gz
-
-
-##
-
-##### x.x.x.241
-
-## PC 26 WyvernTKC cpuminer-gr-avx2 
-https://pool.rplant.xyz/api/wallet/raptoreum/RVEXkbKznTPN9dwsnBehPWooDMWq3dTFwg
-
-https://explorer.raptoreum.com/address/RVEXkbKznTPN9dwsnBehPWooDMWq3dTFwg
-
-***  cpuminer-opt-gr 1.2.2  *** 
-    
-SW built on Oct 14 2021 with GCC 10.3.0
-    
-https://github.com/WyvernTKC/cpuminer-gr-avx2/releases/download/1.2.2/cpuminer-gr-1.2.2-x86_64_linux.tar.gz
+https://ergoplatform.org/en/mining/
 
 
 
-##
+## CPU mined coins
+https://scalaproject.io/ android
 
-##### x.x.x.60
-## PC 36 cpuminer-opt-rplant
-https://pool.rplant.xyz/api/wallet/raptoreum/RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
+https://terafoundation.org/miners.html https://gitlab.com/terafoundation/tera2/-/tree/master/Doc/Rus
 
-https://explorer.raptoreum.com/address/RDSwj1cE2zMuNLheYSJQVpwwtRZdjbhwM3
+https://arionumpool.com/
 
-***  cpuminer-rplant 5.0.24L-avx2 ***
+https://www.zenprotocol.com/ https://zp.io/
 
-SW built on Oct  6 2021 with GCC 9.3.0
-  
-https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz
+## GPU mined coins
+https://esprezzo.io/perkle
 
-##
 
-##### x.x.x.71
-## PC 48 raptominer
-https://pool.rplant.xyz/api/wallet/raptoreum/RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
- 
-https://explorer.raptoreum.com/address/RYFqBNpCN3GQFa4T8v3ASnJMkYeTz6tSn3
+## POW&POS 
 
-***  raptominer 2.0.119  *** 
- 
-SW built on Oct  6 2021 with GCC 8.3.0
+https://www.reddcoin.com/
 
-https://bitbucket.org/chiaos/raptominer
- 
-Start both
+https://www.zenprotocol.com/
 
+https://docs.stacks.co/understand-stacks/mining
+
+
+## POS
+
+https://777coin.win/
+
+https://webdollar.io
+
+https://enecuum.com/buy
+
+
+
+## (Validating)
+https://www.proximax.io/ru 
+
+https://sinovate.io/mining/
+
+http://delegates.xcash.foundation/help
+
+https://raicoin.org/index.html
+
+https://lyra.live/
+
+https://docs.oasis.dev/general/run-a-node/node-operator-overview
+
+
+
+## POC
+
+https://www.signum.network/
+
+https://lbry.com/faq/mining-credits
+
+
+
+
+
+https://www.coindab.com/coins/nkn https://nkn.org/
+
+https://www.coindab.com/coins/semux
+
+https://www.coindab.com/coins/universa https://universablockchain.com/
+
+https://www.coindab.com/coins/mochimo https://mochimo.org/
+
+https://www.coindab.com/coins/quantum-resistant-ledger https://docs.theqrl.org/mining/mining/
+
+https://www.coindab.com/coins/ixian https://www.ixian.io/ https://ixian.kiramine.com/ 
+
+https://www.coindab.com/coins/lykke https://lykke.com/
+
+https://www.coindab.com/coins/rchain https://rchain.coop/developer.html 
+
+https://www.coindab.com/coins/nano https://nano.org/en/tools
+
+https://www.coindab.com/coins/nimiq https://www.nimiq.com/
+
+https://www.coindab.com/coins/idena https://www.idena.io/ru/download 
+
+https://www.coindab.com/coins/beam https://beamx.gitbook.io/beam-mining/ 
+
+https://www.coindab.com/coins/hathor https://hathor.network/mainnet/
+
+https://www.coindab.com/coins/iotex https://iotex.io/
+
+https://www.coindab.com/coins/elastos https://developer.elastos.org/blockchains/supernode/
+
+https://www.coindab.com/coins/tezos https://tezos.com/developer-portal/
+
+https://cosmos.network/ecosystem/apps
+
+https://www.coindab.com/coins/algorand https://algorand.foundation/algorand-protocol/network
+
+https://www.coindab.com/coins/blockstack 
+
+https://www.coindab.com/coins/stellar https://developers.stellar.org/docs/run-core-node/
+
+https://www.coindab.com/coins/aeternity https://aeternity.com/#developer_tools
+
+https://www.coindab.com/coins/holo https://developer.holochain.org/install/
+
+https://www.coindab.com/coins/0chain https://0chain.net/page-miners.html
+
+https://www.coindab.com/coins/ark https://ark.io/
+
+https://www.coindab.com/coins/maidsafecoin https://safenetwork.tech/how-it-works/#network-architecture
+
+https://celo.org/about
+
+https://www.coindab.com/coins/italo https://italo.network/service-nodes/
+
+https://developers.hive.io/
+
+https://veriblock.org/mine/
+
+https://blocknet.co/built-on-blocknet
+
+https://adamant.im/#trade-adm
