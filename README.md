@@ -129,3 +129,7 @@ https://veriblock.org/mine/
 https://blocknet.co/built-on-blocknet
 
 https://adamant.im/#trade-adm
+
+https://dfinity.org/
+
+
